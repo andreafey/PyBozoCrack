@@ -1,3 +1,4 @@
+[![Build Status] (https://travis-ci.org/andreafey/PyBozoCrack.svg)](https://travis-ci.org/andreafey/PyBozoCrack)
 # BozoCrack
 BozoCrack is a depressingly effective MD5 password hash cracker with almost zero CPU/GPU load. Instead of rainbow tables, dictionaries, or brute force, BozoCrack simply *finds* the plaintext password. Specifically, it googles the MD5 hash and hopes the plaintext appears somewhere on the first page of results.
 
